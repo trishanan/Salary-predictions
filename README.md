@@ -39,4 +39,4 @@ There is also a testing dataset that does not have any salary information availa
 
 ## Summary
 
-*Applying random forest regressor to the features led to the most accurate predictions with the least error . The result was a **mean squared error of 329**.<br>This model can be used as a guide when determining salaries since it leads to reasonable predictions when given information on years of experience, miles from metropolis, job type, industry, and college degree and major.*
+*Applying random forest regressor to the features led to the most accurate predictions with the least error . The result was a **mean squared error of 329**.This model can be used as a guide when determining salaries since it leads to reasonable predictions when given information on years of experience, miles from metropolis, job type, industry, and college degree and major.*
